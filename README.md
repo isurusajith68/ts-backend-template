@@ -2,9 +2,9 @@
 
 To start the development server, run the following command:
 
-````bash
+```bash
 npm run dev
-````
+```
 
 ### Build the Project
 
@@ -20,4 +20,4 @@ To run the project in production mode after building, use the following command:
 
 ```bash
 npm start
-````
+```
