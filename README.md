@@ -3,7 +3,7 @@
 To start the development server, run the following command:
 
 ```bash
-npm run dev
+pnpm run dev
 ```
 
 ### Build the Project
@@ -11,7 +11,7 @@ npm run dev
 To build the project for production, execute the following command:
 
 ```bash
-npm run build
+pnpm run build
 ```
 
 ### Run Production Code
@@ -19,5 +19,5 @@ npm run build
 To run the project in production mode after building, use the following command:
 
 ```bash
-npm start
+pnpm start
 ```
